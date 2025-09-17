@@ -1,0 +1,4 @@
+CRUD:
+
+Create - store - Post
+Read - index | show
